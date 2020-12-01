@@ -15,6 +15,8 @@ Cauê Bittencourt Carnietto (Dev Team)
 [Github](https://github.com/cacauisadog))
 
 Edryan Matheus dos Santos Maciel (Dev Team)
+([Linkedin](https://www.linkedin.com/in/edryan-maciel-43538b198/)),
+[Github](https://github.com/edryan25))
 
 Kevin Gabriel Alves de Melo (Dev Team)
 ([Linkedin](https://www.linkedin.com/in/kevin-melo-1004/),
